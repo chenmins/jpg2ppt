@@ -1,0 +1,10 @@
+python-pptx
+opencv-python-headless
+numpy
+torch
+torchvision
+openai
+comtypes
+pypdfium2
+reportlab
+PyPDF2
